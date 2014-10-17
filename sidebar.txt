@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pdi:home|Door43 (pdi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pdi|d43-pdi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pdi/archive/master.zip|d43-pdi.zip]]
+
+**Recent Changes**
+{{changes>ns = pdi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pdi|Ethnologue data]]
+
